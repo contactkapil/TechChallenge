@@ -1,4 +1,4 @@
-#Create unique secrete name with db resource group ,sql server 
+ #Create unique secrete name with db resource group ,sql server 
 locals {
   #password_value = var.adminPassword
   secretkey_name  = "${var.rg_name}-${var.server}"
