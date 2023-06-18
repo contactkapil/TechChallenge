@@ -1,4 +1,4 @@
-#Creating public IP for application gateway
+# Creating public IP for application gateway
 resource "azurerm_public_ip" "pip" {
     name                             = "{var.app_gateway_name}-pip"
     location                          = var.location
