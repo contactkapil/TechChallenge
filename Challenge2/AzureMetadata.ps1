@@ -7,7 +7,7 @@ Challenge:-  Write a program to retrieve Azure metadata in json format and addit
 value.
 
 
-Description:- Following powersheell programi is written to retrive Azure metadata from API using bearer token 
+Description:- Following powershell program is written to retrive Azure metadata from API using bearer token 
 and GET method. Following steps are followed.
 
 1. Invoke powershell script by passiing parameters like TenantID , ClientID , ClientSecrete, apiurl (to retieve metadata)
