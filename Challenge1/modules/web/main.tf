@@ -1,4 +1,4 @@
-#Generate Random password for windows web server
+#Generate Random password for windows web server.
 resource "random_password" "password" {
   length           = 12
   special          = true
