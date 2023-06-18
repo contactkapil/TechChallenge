@@ -1,5 +1,5 @@
 #""""""""""""""""""""""""""""""""""""""""""""""""""""""
-#Created on Sun May  9 13:10:51 2021
+#Created on  18/06/2-23
 
 #@author: Kapil_Mahishi
 
@@ -12,10 +12,10 @@ from operator import getitem
 import json
 
 def get_key_value(dataset, keys):
-    try:
-        return reduce(getitem, keys, dataset)
-    except (KeyError, IndexError):
-        return None
+    try:
+      return reduce(getitem, keys, dataset)
+    except (KeyError, IndexError):
+      return None
 
 dataset_input1 = {"a":{"b":{"c":"d"}}}
 dataset_input2 = {"x":{"y":{"z":"a"}}}
