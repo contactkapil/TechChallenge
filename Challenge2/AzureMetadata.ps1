@@ -1,7 +1,7 @@
 <######################################################################
 
 #Author :- Kapil M
-Date - 9 -May -2021
+Date - 18-Jun-2023
 
 Challenge:-  Write a program to retrieve Azure metadata in json format and additionally retrieve data element
 value.
