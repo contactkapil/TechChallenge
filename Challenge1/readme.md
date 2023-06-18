@@ -1,6 +1,6 @@
 ## Design and Deployment of 3 tier architecture in Microssoft Azure using terraform.
 
-### Challenge1 
+### Challenge 1 
 
 Develop 3 tier architecture on public cloud platform.
 
