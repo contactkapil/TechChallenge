@@ -33,8 +33,6 @@ variable "web_username" {
  
 }
 
-
-
 variable "web_image_publisher" {
   description = "name of the publisher of the image"
  
@@ -54,9 +52,6 @@ variable "web_image_version" {
   description = "version of the image to apply"
  
 }
-
-
-
 
 
 variable "key_vault_rg_name" {
