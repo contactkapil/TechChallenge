@@ -84,7 +84,7 @@ The following diagram shows the high level deployment architecture:
 
 
       
- ## Deployment of Architecture:-
+ ## Deployment steps for 3 Tier Architecture:-
    
    ### Steps
 
