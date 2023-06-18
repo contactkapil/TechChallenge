@@ -14,6 +14,5 @@ variable "key_vault_rg_name" {
 
 variable "password_value" {
   description = "Password value to be set"
-  type        = "string"
-  
+  type        = "string"  
 }
