@@ -97,7 +97,7 @@ resource "azurerm_linux_virtual_machine" "computevm" {
     }
 
 
-#Here we can use remote-exec to install required software at the time of installation.
+#Here we can use remote-exec to install required software at the time of installation .
     provisioner "remote-exec" {
         inline = ["sudo apt-get update && sudo apt install python3.8"]
     }
