@@ -1,7 +1,6 @@
 #""""""""""""""""""""""""""""""""""""""""""""""""""""""
+#@author: Kapil Mahishi
 #Created on  18/06/2023
-
-#@author: Kapil_Mahishi
 
 #Description:-  Following python program retrieve value 
 #of deep nested object by using key.
