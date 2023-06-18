@@ -1,7 +1,7 @@
 # TechChallenge
 This  repo contains tech challenge related to 
 
-Challenge 1:- HA Proxy architecture on microsoft azure using terraform
+Challenge 1:- 3 Tier architecture on microsoft azure using terraform
 
 Challenge 2:- Powershell code to fetch resource details in JSON formatted output to retrieve particular details
 
