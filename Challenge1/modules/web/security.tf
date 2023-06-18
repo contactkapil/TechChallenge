@@ -1,4 +1,4 @@
-resource "azurerm_network_security_group" "web_sg" {
+ resource "azurerm_network_security_group" "web_sg" {
   name                     = "web-nsg"
   location                 = var.azure_location
   resource_group_name      = var.azure_resource_group
