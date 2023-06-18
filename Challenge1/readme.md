@@ -1,4 +1,4 @@
-## Design and Deployment of 3 tier architecture in azure using terraform.
+## Design and Deployment of 3 tier architecture in Microssoft Azure using terraform.
 
 ### Challenge1 
 
